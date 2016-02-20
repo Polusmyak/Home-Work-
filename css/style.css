@@ -1,0 +1,30 @@
+
+  .box1 {
+    width: 80%;
+    margin: 0 auto;
+    border-bottom: 1px solid #BDBDBD;
+   }
+   .box2 {
+    width: 80%;
+    margin: 0 auto;
+    border-bottom: 1px solid #BDBDBD;
+   }
+   .box3 {
+    width: 80%;
+    margin: 0 auto;
+    border-bottom: 1px solid #BDBDBD;
+   }
+   .box4 {
+    width: 80%;
+    margin: 0 auto;
+       }
+   .outline {
+    border: 1px solid lightgrey;
+    box-shadow: -webkit-box-shadow: 1px -1px 0px 0px rgba(214,211,214,1);
+-moz-box-shadow: 1px -1px 0px 0px rgba(214,211,214,1);
+box-shadow: 1px -1px 0px 0px rgba(214,211,214,1);
+    width: 420px;
+    height: 610px;
+    background-color: white;
+margin: auto;
+   }

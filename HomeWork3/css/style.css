@@ -1,0 +1,107 @@
+*{
+  margin: 0;
+  padding: 0;
+ }
+body {
+     background-color: #f9f9f9;
+     width: 1400px;
+     height: 800px;
+     }
+.outline {
+	 margin: 0 auto; 
+	 width: 1000px;
+	 background-color: #ffffff;
+	 height: 865px;
+	 padding-right: 15px;
+	 padding-left: 45px;
+	 padding-top: 40px;
+	 border-left: 2px solid #cbcbcb;
+	 border-right: 2px solid #cbcbcb;
+         }
+
+.header {
+	border: 1px  black;
+    background: #525151; 
+    height: 40px;
+    width: 966px;
+    text-align: center;
+    margin-top: 40px;
+       }
+ .header a {
+	color: #ffffff;
+	font-size: 14.67px;
+	font-family: "Myriad Pro Regular";
+	font-style: "Regular";
+	text-decoration: none;
+		text-align: center;
+	      }
+	      ul.list1 li {display: inline-block; padding: 10px;
+	      } 
+	   .header li:hover{background-color: #343434;}
+.list1 li
+    {display: inline-block;
+    	}
+.list1 li:first-child{width: 100px;}
+.list1 li:nth-child(2){margin-left: 50px;}
+.list1 li:nth-child(3){margin-left:  100px;}
+.list1 li:last-child{margin-left: 200px;}
+
+
+.sidebar {
+		margin-top: 50px;
+	}
+ .sidebar a{
+	color: gray;
+	font-size: 14.67px;
+	text-decoration: none;
+	      }
+.list2 li {overflow: hidden;
+position: relative;
+border: 2px solid #c8c8c8;
+height: 20px;
+width: 240px;
+padding-left: 20px;
+padding-top: 10px;
+padding-bottom: 10px;}
+.list2 li:hover {padding-left: 30px; font-weight: bold;}
+
+.content {float: right;
+padding-left: 285px;
+margin-top: -255px;}
+.list3 li{display: inline-block;
+text-decoration: none;}
+
+p {
+    font-size: 14px;
+	margin-right: 37px;
+margin-left: -3px;
+padding: 21px;}
+
+.footer {clear: both;}
+.list3 li{display: inline-block;
+}
+
+.footer {
+	border: 1px  black;
+    background: #e1e1e1; 
+    height: 40px;
+    width: 966px;
+    text-align: center;
+    margin-top: 350px;
+clear: both;
+border: 1px black;
+
+      }
+      .footer a {
+	color: #2c2c2c;
+	font-size: 13.33px;
+		text-decoration: none;
+	
+	text-align: center;
+	      }
+	      ul.list3 li {display: inline-block; padding: 10px;
+	      } 
+	      .list3 li:first-child{width: 30px;}
+.list3 li:nth-child(2){margin-left: 50px;}
+.list li:nth-child(3){margin-left:  200px;}
+.list3 li:last-child{margin-left: 420px;}	      } 
